@@ -1,12 +1,8 @@
-<p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" width="100" />
-</p>
+
 <p align="left">
     <h1 align="left">-OPTICAL-CHARACTER-RECOGNITION-OCR-CROSS-PLATFORM-APP</h1>
 </p>
-<p align="left">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
+
 <p align="left">
 	<img src="https://img.shields.io/github/license/Muhammad-Ali-007/-Optical-Character-Recognition-OCR-cross-platform-app?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Muhammad-Ali-007/-Optical-Character-Recognition-OCR-cross-platform-app?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -44,9 +40,6 @@
 >   - [ Running -Optical-Character-Recognition-OCR-cross-platform-app](#-running--Optical-Character-Recognition-OCR-cross-platform-app)
 >   - [ Tests](#-tests)
 > - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -449,13 +442,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
 
