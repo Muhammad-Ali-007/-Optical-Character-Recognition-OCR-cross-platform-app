@@ -1,2 +1,29 @@
-# -Optical-Character-Recognition-OCR-cross-platform-app
-Developed an OCR app using Flutter, incorporating Python, Tesseract OCR, and Flutter EasyLoading. The app allows users to upload images and extracts text using deep learning techniques, providing a user-friendly interface for efficient and accurate text recognition.
+# OCR Application - Using Flutter 
+
+## Recognize text from images or scan directly using camera
+
+-------------------------------------------------------------------------------------------------
+
+This is a application used to implement optical character recognition ,made using flutter.
+
+The user can scan texts from images in gallery or can scan in real time by using the phone back camera.
+
+Tested on Android.(Web support not available yet)
+
+
+-------------------------------------------------------------------------------------------
+
+
+Main Dependencies:
+
+[flutter_tesseract_ocr ](https://pub.dev/packages/flutter_tesseract_ocr)
+
+[flutter_mobile_vision_2](https://pub.dev/packages/flutter_mobile_vision_2)
+
+
+
+------------------------------------------------------------------------------------
+
+![Alt text](/Screenshots/screenshots_merged.png?raw=true "Screenshots")
+
+-------------------------------------------------------------------------------------
